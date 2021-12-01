@@ -1,0 +1,5 @@
+my_file= open("file6.txt","r+")
+a=my_file.read()
+my_file.write("\nHi\nso i'm archana aarya here \nand she is doing engeneering in navgurukul")
+print(my_file)
+my_file.close()
